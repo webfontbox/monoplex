@@ -1,0 +1,15 @@
+
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: normal;
+  /* font-weight: 300; */
+  src: local("Monoplex KR"), /* computer */
+    url("MonoplexKR-Text.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: italic;
+  /* font-weight: 300; */
+  src: local("Monoplex KR"), /* computer */
+    url("MonoplexKR-TextItalic.ttf") format("truetype"); /* Safari, Android, iOS */
+}

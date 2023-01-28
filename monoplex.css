@@ -1,0 +1,98 @@
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: normal;
+  font-weight: 100;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-Thin.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: italic;
+  font-weight: 100;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-ThinItalic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: normal;
+  font-weight: 200;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-ExtraLight.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: italic;
+  font-weight: 200;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-ExtraLightItalic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-Light.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: italic;
+  font-weight: 300;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-LightItalic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-Regular.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: italic;
+  font-weight: 400;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-Italic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: normal;
+  font-weight: 500;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-Medium.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: italic;
+  font-weight: 500;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-MediumItalic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: normal;
+  font-weight: 600;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-SemiBold.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: italic;
+  font-weight: 600;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-SemiBoldItalic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-Bold.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "Monoplex KR";
+  font-style: italic;
+  font-weight: 700;
+  src: local("Monoplex KR"), /* computer */
+    url("fonts/MonoplexKR-BoldItalic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
